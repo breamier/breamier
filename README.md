@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Aimee!!!
   
-- 👀 I’m interested in a lot of stuff: <i>coding, reading</i> and <i>eating</i>
+- 👀 I’m interested in a lot of stuff: <i>coding, reading</i> and <i>eating.</i>
 
 - 🌱 I’m currently learning how to be a programmer ;)
 
